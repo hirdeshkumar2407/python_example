@@ -8,7 +8,7 @@
 
 ### Prerequisites
 Ensure you have the following installed:
-- Python 3
+- Python 3 (not really)
 - Docker
 - Git (osx https://git-scm.com/download/mac) (windows: https://gitforwindows.org/) (linux: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - Human Brain
